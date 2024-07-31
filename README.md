@@ -9,3 +9,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1163013742485831755/1268314093409009754/nocostblack.png?ex=66abf90c&is=66aaa78c&hm=ce2a89a2dfa6ace7d53d1561ff58e10ef818d109d9ebad9912faba5ab445f577&=&format=webp&quality=lossless&width=1440&height=302">
   <img alt="About me header" src="https://media.discordapp.net/attachments/1163013742485831755/1268310050888220783/nocost.png?ex=66abf548&is=66aaa3c8&hm=2b185014683b08d828ba015493fcdbf8c69e336a4b8c5cdaee1617e02659aafb&=&format=webp&quality=lossless&width=1440&height=411">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1163013742485831755/1268314736139829379/divider.png?ex=66abf9a5&is=66aaa825&hm=86a38a64613c1abde9bffe98f0ce333e716d4d3f148ff43dd878d587c9f7bb69&=&format=webp&quality=lossless&width=1440&height=145">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1163013742485831755/1268314093409009754/nocostblack.png?ex=66abf90c&is=66aaa78c&hm=ce2a89a2dfa6ace7d53d1561ff58e10ef818d109d9ebad9912faba5ab445f577&=&format=webp&quality=lossless&width=1440&height=302">
+  <img alt="About me header" src="https://media.discordapp.net/attachments/1163013742485831755/1268314736139829379/divider.png?ex=66abf9a5&is=66aaa825&hm=86a38a64613c1abde9bffe98f0ce333e716d4d3f148ff43dd878d587c9f7bb69&=&format=webp&quality=lossless&width=1440&height=145">
+</picture>
