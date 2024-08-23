@@ -5,7 +5,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1163013742485831755/1268314079362285691/nocost.png?ex=66abf908&is=66aaa788&hm=8080b97fc5509944d1b91e81df1af2299600af8ada0590a9569e093939ca3b5c&=&format=webp&quality=lossless&width=1440&height=302">
+  <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/wdpBzUC">
   <source media="(prefers-color-scheme: light)" srcset="https://media.discordapp.net/attachments/1163013742485831755/1268314973998678016/dividerblack.png?ex=66abf9dd&is=66aaa85d&hm=c3b4eda701e50b431e8765fe0a2b3af25c1f62bbb1740a918154d0820541d5ac&=&format=webp&quality=lossless&width=1440&height=145">
   <img alt="About me header" src="https://media.discordapp.net/attachments/1163013742485831755/1268310050888220783/nocost.png?ex=66abf548&is=66aaa3c8&hm=2b185014683b08d828ba015493fcdbf8c69e336a4b8c5cdaee1617e02659aafb&=&format=webp&quality=lossless&width=1440&height=411">
 </picture>
